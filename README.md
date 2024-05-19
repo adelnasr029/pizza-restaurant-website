@@ -25,6 +25,6 @@ getting to know much more about Bootstrap new features and tools
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
- **[Hair Salon]**(https://leviathansalon.netlify.app/)
+ [Hair Salon](https://leviathansalon.netlify.app/)
 
-**[Flicker Face Painting]**(https://flicker029.netlify.app/)
+[Flicker Face Painting](https://flicker029.netlify.app/)
