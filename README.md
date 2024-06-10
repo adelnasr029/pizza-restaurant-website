@@ -1,5 +1,5 @@
 # My Pizza Restaurant Project
-Pizza Restaurant website that presents menu items in each category <br> And provides Inforamtion about the restaurant and the serverice.
+Pizza Restaurant website that presents menu items in each category <br> And provides Inforamtion about the restaurant and the service.
 <br> 
 <br>
 **Link to project:** [Pizza Restaurant](https://pizza-restaurant-webdemo.netlify.app/)
