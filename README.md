@@ -5,7 +5,8 @@ Pizza Restaurant website that presents menu items in each category <br> And prov
 **Link to project:** [Pizza Restaurant](https://pizza-restaurant-webdemo.netlify.app/)
 <br>
 <br>
-<a href="https://ibb.co/dmh9w76"><img src="https://i.ibb.co/8Yh3LX2/pizz-restaurant.jpg" alt="pizz-restaurant" width="300" height="400" border="0"></a>
+![pizz-restaurant](https://github.com/adelnasr029/pizza-restaurant-website/assets/108176783/f0501dd9-df45-4957-9d23-fc8b0867057a)
+
 
 ## How It's Made:
 
