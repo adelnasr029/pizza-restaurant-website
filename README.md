@@ -24,8 +24,23 @@ Adding server side code that can listen to client-sided devices requests and get
 getting to know much more about Bootstrap new features and tools
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at some of my work examples:
+
+[Comfort Chair co](https://chairs-store-website.onrender.com/)
+
+ [My Portfolio](https://adelabdulazeem.netlify.app/)
+
+ [StarGazers APOD Web App](https://nasa-picture-every-day.netlify.app/)
 
  [Hair Salon](https://leviathansalon.netlify.app/)
 
-[Flicker Face Painting](https://flicker029.netlify.app/)
+ [Pizzela Restaurant website](https://pizza-restaurant-webdemo.netlify.app/)
+
+ [PlantPicker Project](https://github.com/adelnasr029/PlantPicker)
+
+ [ChatApp](https://github.com/adelnasr029/chatApp)
+ 
+ [Task Tracker](https://github.com/adelnasr029/task-tracker)
+
+
+
